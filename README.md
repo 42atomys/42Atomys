@@ -4,7 +4,7 @@
   <span style="font-size: 75%; font-weight: normal;"><b>Lead & Senior Architect</b></span>
 </h1>
 
-<h3 align="center">A passionate developer, devops, sys-admin, designer since my 10 years-old.</h3>
+<h3 align="center">A passionate developer, devops, sys-admin, designer since 15 years.</h3>
 <p align="center"><br/><a href="https://github.com/42atomys"><img src="https://badges.pufler.dev/visits/42atomys/42atomys?color=7F00FF" alt="Visits Badge"></a>
 <a href="https://www.linkedin.com/in/gdalmar/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0D76A8" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/42_atomys"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&amp;logo=twitter&amp;logoColor=white&amp;color=1CA2F1" alt="Twitter Badge"></a>
@@ -13,8 +13,8 @@
 
 ----
 
-<p align="center">
-Since 15 years, I have been passionate about any field related to development. Whether it is pure development or network and server administration, everything is a passion for me which is now my job. <br/><br/>In 2022 I decided to open up to open source in order to share my knowledge and to keep learning!</p>
+<h6 align="center">
+Since 15 years, I have been passionate about any field related to development. Whether it is pure development or network and server administration, everything is a passion for me which is now my job. <br/><br/>In 2022 I decided to open up to open source in order to share my knowledge and to keep learning!</h6>
 
 ----
 
