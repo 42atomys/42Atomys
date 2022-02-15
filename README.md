@@ -128,12 +128,13 @@ Since 15 years, I have been passionate about any field related to development. W
 <h2 align="center">
   <b>✨ Sponsors ✨</b>
   <br/>
+</h2>
+<p align="center">
   <small style="font-size: 75%; font-weight: normal;">A big thank you to my sponsors who help me every day to drink more coffee</small>
   <br/>
   <a href="https://github.com/sponsors/42Atomys">Sponsor me and join Team Rocket 🚀</a>
-</h2>
+</p>
 
-----
 <blockquote align="center">
 <br/>
 
