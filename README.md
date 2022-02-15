@@ -104,9 +104,11 @@ Since 15 years, I have been passionate about any field related to development. W
 <br/>
 <h2 align="center">
   <b>📈 Some statistics</b>
-  <br/>
-  <small style="font-size: 75%; font-weight: normal;">Because everyone does it so why not, let's not be stubborn</small>
 </h2>
+<p align="center">
+  <small style="font-size: 75%; font-weight: normal;">Because everyone does it so why not, let's not be stubborn</small>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/42atomys">
