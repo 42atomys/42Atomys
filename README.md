@@ -1,7 +1,7 @@
 <h1 align="center">
   <span>Hi 👋, I'm Atomys</span>
   <br/>
-  <small style="font-size: 75%; font-weight: normal;"><b>Lead & Senior Architect</b></small>
+  <span style="font-size: 75%; font-weight: normal;"><b>Lead & Senior Architect</b></span>
 </h1>
 
 <h3 align="center">A passionate developer, devops, sys-admin, designer since my 10 years-old.</h3>
