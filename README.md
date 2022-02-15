@@ -25,11 +25,10 @@ Since 15 years, I have been passionate about any field related to development. W
 <p align="center">⚡ Fun fact <b>I'm stuck on my loopback network ::1, please halp</b></p>
 
 <br/>
-<h2 align="center">
-  <b>💼 Skills</b>
-  <br/>
+<h2 align="center">💼 Skills</h2>
+<p align="center">
   <small style="font-size: 75%; font-weight: normal;">If you are interested in seeing what I have mastered</small>
-</h2>
+</p>
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=7F00FF)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=7F00FF)
@@ -102,9 +101,7 @@ Since 15 years, I have been passionate about any field related to development. W
 </details>
 
 <br/>
-<h2 align="center">
-  <b>📈 Some statistics</b>
-</h2>
+<h2 align="center">📈 Some statistics</h2>
 <p align="center">
   <small style="font-size: 75%; font-weight: normal;">Because everyone does it so why not, let's not be stubborn</small>
 </p>
@@ -127,10 +124,7 @@ Since 15 years, I have been passionate about any field related to development. W
 </p>
 
 <br/>
-<h2 align="center">
-  <b>✨ Sponsors ✨</b>
-  <br/>
-</h2>
+<h2 align="center">✨ Sponsors ✨</h2>
 <p align="center">
   <small style="font-size: 75%; font-weight: normal;">A big thank you to my sponsors who help me every day to drink more coffee</small>
   <br/>
