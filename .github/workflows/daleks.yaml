@@ -1,0 +1,10 @@
+name: Exterminate
+on: [push]
+permissions:
+  contents: read
+jobs:
+  nothing:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Who ?
+      run: echo "Atomys 🚀"
