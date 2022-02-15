@@ -1,23 +1,9 @@
-### Hi there 👋
+<h1 align="center">
+  <span>Hi 👋, I'm Atomys</span>
+  <br/>
+  <small style="font-size: 75%; font-weight: normal;"><b>Lead & Senior Architect</b></small>
+</h1>
 
-<!--
-**42Atomys/42Atomys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Hi 👋, I'm Atomys</h1>
-<h2 align="center"><b>Lead & Senior Architect</b></h2>
 <h3 align="center">A passionate developer, devops, sys-admin, designer since my 10 years-old.</h3>
 <p align="center"><br/><a href="https://github.com/42atomys"><img src="https://badges.pufler.dev/visits/42atomys/42atomys?color=7F00FF" alt="Visits Badge"></a>
 <a href="https://www.linkedin.com/in/gdalmar/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0D76A8" alt="LinkedIn Badge"></a>
@@ -32,17 +18,18 @@ Since 15 years, I have been passionate about any field related to development. W
 
 ----
 
-<p align="center">👯 I’m looking to collaborate on **An attractive project**</p>
+<p align="center">👯 I’m looking to collaborate on <b>An attractive project</b></p>
 
-<p align="center">💬 Ask me about **architecture, go, kubernetes, helm.. Any things you want**</p>
+<p align="center">💬 Ask me about <b>architecture, go, kubernetes, helm.. Any things you want</b></p>
 
-<p align="center">⚡ Fun fact **I'm stuck on my loopback network ::1, please halp**</p>
+<p align="center">⚡ Fun fact <b>I'm stuck on my loopback network ::1, please halp</b></p>
 
 <br/>
-<h2 align="center"><b>💼 Skills</b></h1>
-<h3 align="center">If you are interested in seeing what I have mastered</h1>
-
-----
+<h2 align="center">
+  <b>💼 Skills</b>
+  <br/>
+  <small style="font-size: 75%; font-weight: normal;">If you are interested in seeing what I have mastered</small>
+</h2>
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=7F00FF)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=7F00FF)
@@ -115,10 +102,11 @@ Since 15 years, I have been passionate about any field related to development. W
 </details>
 
 <br/>
-<h2 align="center"><b>Some statistics</b></h1>
-<h3 align="center">Because everyone does it so why not, let's not be stubborn</h1>
-
-----
+<h2 align="center">
+  <b>📈 Some statistics</b>
+  <br/>
+  <small style="font-size: 75%; font-weight: normal;">Because everyone does it so why not, let's not be stubborn</small>
+</h2>
 
 <p align="center">
   <a href="https://github.com/42atomys">
