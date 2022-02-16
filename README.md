@@ -4,7 +4,7 @@
   <span style="font-size: 75%; font-weight: normal;"><b>Lead & Senior Architect</b></span>
 </h1>
 
-<h3 align="center">A passionate developer, devops, sys-admin, designer since 15 years</h3>
+<h3 align="center">A french passionate developer, devops, sys-admin, designer since 15 years</h3>
 <p align="center"><br/><a href="https://github.com/42atomys"><img src="https://badges.pufler.dev/visits/42atomys/42atomys?color=7F00FF" alt="Visits Badge"></a>
 <a href="https://discord.gg/4P7vEVBYS4"><img src="https://img.shields.io/badge/Discord-Server-informational?style=flat&amp;logo=discord&amp;logoColor=white&amp;color=5865F2" alt="Discord Badge"></a>
 <a href="https://www.linkedin.com/in/gdalmar/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0D76A8" alt="LinkedIn Badge"></a>
