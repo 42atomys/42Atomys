@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/gdalmar/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0D76A8" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/42_atomys"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&amp;logo=twitter&amp;logoColor=white&amp;color=1CA2F1" alt="Twitter Badge"></a>
 <a href="https://www.instagram.com/42_atomys"><img src="https://img.shields.io/badge/instagram-Profile-informational?style=flat&amp;logo=instagram&amp;logoColor=white&amp;color=E1306C" alt="Instagram Badge"></a>
-<a href="https://www.youtube.com/c/42_Atomys"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&amp;logo=youtube&amp;logoColor=white&amp;color=FF0000" alt="Youtube Badge"></a></p>
+<a href="https://www.youtube.com/c/42_Atomys"><img src="https://img.shields.io/badge/Youtube-Profile-informational?style=flat&amp;logo=youtube&amp;logoColor=white&amp;color=FF0000" alt="Youtube Badge"></a></p>
 
 ----
 
