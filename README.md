@@ -32,6 +32,7 @@ Since 15 years, I have been passionate about any field related to development. W
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [✨ How will Go Generics in Go 1.18 change your life? 💜](https://dev.to/42atomys/how-will-go-generics-in-go-118-change-your-life-2e5i)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
