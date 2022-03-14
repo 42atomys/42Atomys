@@ -26,6 +26,15 @@ Since 15 years, I have been passionate about any field related to development. W
 <p align="center">⚡ Fun fact <b>I'm stuck on my loopback network ::1, please halp</b></p>
 
 <br/>
+<h2 align="center">📩 Latest Blog Posts</h2>
+<p align="center">
+  <small style="font-size: 75%; font-weight: normal;">I share my knowledge through blog posts. Go check it out</small>
+</p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
 <h2 align="center">💼 Skills</h2>
 <p align="center">
   <small style="font-size: 75%; font-weight: normal;">If you are interested in seeing what I have mastered</small>
