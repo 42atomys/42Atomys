@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/42atomys"
           max_post_count: 3
+          template: <p allign="center"><a href="$url">$title</a></p>
