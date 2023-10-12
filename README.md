@@ -15,7 +15,7 @@
 ----
 
 <p align="center">
-Since 15 years, I have been passionate about any field related to development. Whether it is pure development or network and server administration, everything is a passion for me which is now my job. <br/><br/>In 2022 I decided to open up to open source in order to share my knowledge and to keep learning!</p>
+Since 16 years, I have been passionate about any field related to development. Whether it is pure development or network and server administration, everything is a passion for me which is now my job. <br/><br/>In 2022 I decided to open up to open source in order to share my knowledge and to keep learning!</p>
 
 ----
 
