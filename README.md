@@ -4,7 +4,7 @@
   <span style="font-size: 75%; font-weight: normal;"><b>Lead & Senior Architect</b></span>
 </h1>
 
-<h3 align="center">A french passionate developer, devops, sys-admin, designer since 15 years</h3>
+<h3 align="center">A french passionate developer, devops, sys-admin, designer since 16 years</h3>
 <p align="center"><br/><a href="https://github.com/42atomys"><img src="https://visitor-badge.glitch.me/badge?page_id=42Atomys.profile&right_color=%237F00FF" alt="Visits Badge"></a>
 <a href="https://discord.gg/4P7vEVBYS4"><img src="https://img.shields.io/badge/Discord-Server-informational?style=flat&amp;logo=discord&amp;logoColor=white&amp;color=5865F2" alt="Discord Badge"></a>
 <a href="https://www.linkedin.com/in/gdalmar/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0D76A8" alt="LinkedIn Badge"></a>
@@ -131,7 +131,11 @@ Since 16 years, I have been passionate about any field related to development. W
     <img style="margin-left:0.5rem; margin-right:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=42atomys&show_icons=true&layout=compact&theme=shades-of-purple&hide_border=true" alt="Atomys's GitHub Stats" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://app.daily.dev/42atomys">
+    <img src="https://api.daily.dev/devcards/v2/HbxciYgv7FXyFBv7fBaiI.png?r=w89&type=wide" width="652" alt="42atomys's Dev Card"/>
+  </a>
+</p>
 <br/>
 <h2 align="center">✨ Sponsors ✨</h2>
 <p align="center">
