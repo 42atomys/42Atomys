@@ -5,12 +5,12 @@
 </h1>
 
 <h3 align="center">A french passionate architect, developer, sre, designer, and macgyver since 16 years</h3>
-<p align="center"><br/><a href="https://github.com/42atomys"><img src="https://visitor-badge.glitch.me/badge?page_id=42Atomys.profile&right_color=%237F00FF" alt="Visits Badge"></a>
+<p align="center"><br/><a href="https://github.com/42atomys"><img src="https://img.shields.io/badge/Profile%20Views-24k-informational?style=flat&amp;logo=github&amp;logoColor=white&amp;color=238636" alt="Visitor Badge"></a>
 <a href="https://discord.gg/4P7vEVBYS4"><img src="https://img.shields.io/badge/Discord-Server-informational?style=flat&amp;logo=discord&amp;logoColor=white&amp;color=5865F2" alt="Discord Badge"></a>
 <a href="https://www.linkedin.com/in/gdalmar/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0D76A8" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/42_atomys"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&amp;logo=twitter&amp;logoColor=white&amp;color=1CA2F1" alt="Twitter Badge"></a>
-<a href="https://www.instagram.com/42_atomys"><img src="https://img.shields.io/badge/instagram-Profile-informational?style=flat&amp;logo=instagram&amp;logoColor=white&amp;color=E1306C" alt="Instagram Badge"></a>
-<a href="https://www.youtube.com/c/42_Atomys"><img src="https://img.shields.io/badge/Youtube-Profile-informational?style=flat&amp;logo=youtube&amp;logoColor=white&amp;color=FF0000" alt="Youtube Badge"></a></p>
+<a href="https://twitter.com/42atomys"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&amp;logo=twitter&amp;logoColor=white&amp;color=1CA2F1" alt="Twitter Badge"></a>
+<a href="https://www.instagram.com/42atomys"><img src="https://img.shields.io/badge/instagram-Profile-informational?style=flat&amp;logo=instagram&amp;logoColor=white&amp;color=E1306C" alt="Instagram Badge"></a>
+<a href="https://www.youtube.com/c/42atomys"><img src="https://img.shields.io/badge/Youtube-Profile-informational?style=flat&amp;logo=youtube&amp;logoColor=white&amp;color=FF0000" alt="Youtube Badge"></a></p>
 
 ----
 
